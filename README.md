@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
 <!--
 **XGalilei/XGalilei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
