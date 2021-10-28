@@ -1,5 +1,8 @@
-### Hi there 👋
+## Greetings, fellow humans! 👋
+### I'm Ian Bush, a software developer and dad joke baron. 
+* In the process of finalizing the first edition of a two-week sprint project called SIFR
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
+### More than happy to reach out!💬
 <!--
 **XGalilei/XGalilei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
