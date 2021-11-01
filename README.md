@@ -1,6 +1,7 @@
 ## Greetings, fellow humans! 👋
-### I'm Ian Bush, a software developer and dad joke baron. 
-* In the process of finalizing the first edition of a two-week sprint project called SIFR
+### I'm Ian Bush, a software developer and dad joke baron. Here are some of the things I bring to the table:
+* Java Development
+* Experience with JavaScript (React framework, including Redux sagas)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
 ### More than happy to reach out!💬
 <!--
