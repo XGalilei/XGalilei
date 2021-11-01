@@ -4,6 +4,7 @@
 * Experience with JavaScript (React framework, including Redux sagas)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
 ### More than happy to reach out!💬
+|ianbush1@gmail.com|https://www.linkedin.com/in/ian-bush-929268131/
 <!--
 **XGalilei/XGalilei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
