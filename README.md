@@ -1,5 +1,5 @@
 ## Greetings, fellow humans! 👋
-### I'm Ian Bush, a software developer and dad joke baron. Here are some of the things I bring to the table:
+### I'm Ian Bush, a software developer and dad joke baron, currently working as an Associate Software Engineer at Irulast. Here are some of the things I bring to the table:
 * Java Development
 * Experience with JavaScript (React framework, including Redux sagas)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
