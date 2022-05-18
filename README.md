@@ -3,6 +3,7 @@
 * Java Development (including Maven and Spring Boot)
 * Experience with JavaScript (React framework, including Redux sagas) and Web Development
 * Flutter/Dart Development
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
 ### More than happy to reach out!💬
 |ianbush1@gmail.com|https://www.linkedin.com/in/ian-bush-929268131/
