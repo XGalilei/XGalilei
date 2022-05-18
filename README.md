@@ -1,7 +1,6 @@
 ## Greetings, fellow humans! 👋
 ### I'm Ian Bush, a software developer and dad joke baron, looking to find positions Here are some of the things I bring to the table:
-* Java Development
-** Maven Development
+* Java Development (including Maven and Spring Boot)
 * Experience with JavaScript (React framework, including Redux sagas) and Web Development
 * Flutter/Dart Development
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=XGalilei&show_icons=true)
